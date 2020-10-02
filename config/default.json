@@ -1,3 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://brenno123:brenno123@cluster0.qhma3.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://brenno123:brenno123@cluster0.qhma3.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "dee8e014b9505e1555be",
+    "githubSecret": "d0501163906e10da270bcdf30ad0c1a45064292b"
 }
