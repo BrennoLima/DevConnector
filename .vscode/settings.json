@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.endOfLine": "auto",
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true,
+    "workbench.settings.editor": "json"
+}
